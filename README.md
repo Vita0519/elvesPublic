@@ -1,0 +1,2 @@
+# elvesPublic
+Elves是一款基于PySide6开发的AI语音助手桌面客户端
